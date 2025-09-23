@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "legacy_uid": "cbb2fd7e-781b-8a19-a847-32bc322adf1a",
+  "instructors": {
+    "content": [
+      "a3fdc8c3-5835-978d-778c-8b6eecdacaf7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7de4a40b-a2d4-c37b-a95a-926673285f57",
+    "website": "14-124-microeconomic-theory-iv-spring-2017"
+  },
+  "course_title": "Microeconomic Theory IV",
+  "course_description": "The topic of the class is information and contract theory. The purpose is to give an introduction to some of the main subjects in this field: decision making under uncertainty, risk sharing, moral hazard, adverse selection, mechanism design, and incomplete contracting.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.124",
+  "course_image_thumbnail": {
+    "content": "ae7e08dd-1de9-ce93-2df5-abdacf941bc1",
+    "website": "14-124-microeconomic-theory-iv-spring-2017"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "d93839d9-c6d9-4dbf-b2d0-21b7b79515ad",
+  "site_short_id": "14.124-spring-2017",
+  "site_url_path": "courses/14-124-microeconomic-theory-iv-spring-2017",
+  "title": "Course Metadata"
+}
