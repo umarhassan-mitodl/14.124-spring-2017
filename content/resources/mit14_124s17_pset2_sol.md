@@ -4,6 +4,8 @@ description: ''
 file: /courses/14-124-microeconomic-theory-iv-spring-2017/9787e63d3737b25c50b1becb5a5da36d_MIT14_124S17_Pset2_sol.pdf
 file_size: 326577
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
