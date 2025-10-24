@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-124-microeconomic-theory-iv-spring-2017/8e0c2484aed6906405ffe7d9ba73375e_MIT14_124S17_LecNote3.pdf
 file_size: 475000
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

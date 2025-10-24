@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-124-microeconomic-theory-iv-spring-2017/0a3d53590f17f81f1561eb7d7922329d_MIT14_124S17_Slide2.pdf
 file_size: 339329
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

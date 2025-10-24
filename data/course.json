@@ -27,7 +27,6 @@
     "website": "14-124-microeconomic-theory-iv-spring-2017"
   },
   "course_title": "Microeconomic Theory IV",
-  "hide_download": true,
   "course_description": "The topic of the class is information and contract theory. The purpose is to give an introduction to some of the main subjects in this field: decision making under uncertainty, risk sharing, moral hazard, adverse selection, mechanism design, and incomplete contracting.\n",
   "department_numbers": [
     "14"
@@ -38,7 +37,6 @@
     "content": "ae7e08dd-1de9-ce93-2df5-abdacf941bc1",
     "website": "14-124-microeconomic-theory-iv-spring-2017"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Lecture Notes"
