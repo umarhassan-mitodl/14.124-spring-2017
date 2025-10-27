@@ -36,12 +36,12 @@ I will mainly follow the textbook by Mas-Colell, Whinston, and Green (MWG). I al
 
 Varian, Hal R. _Microeconomic Analysis, Third Edition_. W.W Norton & Company, 1992. ISBN: 9780393957358.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025768) Bolton, Patrick, and Mathias Dewatripont. _Contract Theory_. MIT Press, 2004. ISBN: 978026202576.
+{{% resource_link "cdd7309e-ed65-488f-b7c5-675daedb8544" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bolton, Patrick, and Mathias Dewatripont. _Contract Theory_. MIT Press, 2004. ISBN: 978026202576.
 
  Hart, Oliver. _Firms, Contracts, and Financial Structures_. Clarendon Press, 1995. 9780198288817.
 
  Milgrom, Paul. _Putting Action Theory to Work_. Cambridge University Press, 2004.  9780521536721.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262072151) Gollier, Christian. _The Economics of Risk and Time_. The MIT Press, 2004. 9780262572248.
+{{% resource_link "afe0639f-f38c-4454-8cf7-272c8213024c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gollier, Christian. _The Economics of Risk and Time_. The MIT Press, 2004. 9780262572248.
 
 See the {{% resource_link 6314a401-a9f8-3769-d31f-10d13d65dc84 "Readings" %}} section for the complete list of the readings used in the class.
